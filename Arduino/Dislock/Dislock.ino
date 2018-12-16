@@ -7,8 +7,8 @@
 //IO pins
 int button = 4;
 int LED = 10;
-int echo = 2;
-int trigger = 3;
+int echo = 3;
+int trigger = 2;
 
 //Variables
 float distance;
@@ -100,7 +100,10 @@ void loop() {
 
   //Enable and armed status LED
   if (enable == true){
-    digitalWrite(LED, armed);
+    if (armed == true) 
+      analogWrite(LED, 50);
+    else
+      digitalWrite(LED, LOW);
     delay(100);
   }
   else {
