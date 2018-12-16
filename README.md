@@ -12,7 +12,7 @@ El código se encarga de calcular la distancia por medio del sensor de ultrasoni
 
 El sistema envía el shortcut **CTRL + ALT + L**. Este es un shortcut de bloqueo de pantalla en Ubuntu, aunque no viene configurado siempre por defecto.
 
-Si usas otro sistema operativo asegurate de configurar el shortcut adecuado en la función **void doYourMagic()** del código de Arduino.
+Si usas otro sistema operativo asegúrate de configurar el shortcut adecuado en la función **void doYourMagic()** del código de Arduino.
 
 ## Calibración
 
