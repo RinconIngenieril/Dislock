@@ -2,6 +2,8 @@
 
 A simple computer screen locker using a distance sensor.
 
+<img src="https://raw.githubusercontent.com/RinconIngenieril/Dislock/master/img/dislock.jpg"/>
+
 ***
 
 Dislock es un proyecto con el cual puedes bloquear tu ordenador usando tan solo un **Arduino Leonardo** y un sensor de **ultrasonidos**.
@@ -31,10 +33,6 @@ Para deshabilitar el sistema debes poner la mano a menos de 10 cm hasta que parp
 Cuando el sistema está deshabilitado el LED de estado se enciende variando su brillo.
 
 Para volver a habilitar el sistema repite el paso anterior. Debes poner la mano a menos de 10 cm hasta que parpadee el LED 2 veces, 5 segundos aproximadamente.
-
-***
-
-Queda pendiente crear una carcasa imprimible en 3D para montar el sistema
 
 ***
 
