@@ -2,7 +2,7 @@
 
 A simple computer screen locker using a distance sensor.
 
-<img src="https://raw.githubusercontent.com/RinconIngenieril/Dislock/master/img/dislock.jpg"/>
+<img src="https://raw.githubusercontent.com/RinconIngenieril/Dislock/master/img/derivator.jpg"/>
 
 ***
 
